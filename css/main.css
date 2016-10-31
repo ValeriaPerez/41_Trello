@@ -1,0 +1,49 @@
+/* FONDO DE HEADER*/
+.fondo{
+	background-color: #0B4C5F;
+}
+/* BOTON DE TABLA */
+.fondo2{
+	background-color: #F5F6CE;
+}
+/* FONDO NARANJA */
+.naranja{
+	background-color: #FACC2E:;
+}
+/* TEXTO */
+.text-white{
+	color: white;
+}
+/* TIPOGRAFIA DE TODO */
+*{
+	font-family: 'Verdana';
+}
+/* ESTILO DE MI BOTON */
+.boton{
+	margin: 10px 20px 10px 0px;
+	display: inline-block;
+}
+/* HOVER DE BOTONES */
+.boton:hover, button:hover{
+	background-color: #FE9A2E;
+}
+/* ESTILO DE TABLA */
+.estilo{
+	background-color: #0B4C5F;
+	padding: 15px;
+	width: 280px;
+	border-radius:5px;
+	margin: 10px 20px 10px 0px;
+	display: inline-block;	
+}
+/* ESTILO DEL INPUT DE TABLA */
+input{
+	padding: 5px 0px;
+	width: 100%;
+}
+/* ESTILO DEL BOTON DE TABLA*/
+button{
+	display: block;
+	border: none;
+	margin: 2%;
+}
